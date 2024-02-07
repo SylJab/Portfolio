@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sylwia Jablonska</title>
+    <link>https://gohugo-theme-ananke.pages.dev/post/</link>
+    <description>Recent content in Projects on Sylwia Jablonska</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employee Database using Python</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project5-pythondatabase/</link>
+      <pubDate>Thu, 20 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project5-pythondatabase/</guid>
+      <description>Collaboratively, our team embarked on the development of a Python-based employee database with the shared goal of streamlining workforce management. Introducing two user roles – a standard user and a superuser – added layers of security and control. In my role as the project manager, I not only facilitated effective collaboration by providing clear documentation, creating Gantt charts, and contributing to the Python code with a focus on user interaction and module communication but also showcased my skills in team leading and efficient programming.</description>
+    </item>
+    
+    <item>
+      <title>Operational Research using Excel &amp; MATLAB</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project4-excelor/</link>
+      <pubDate>Thu, 20 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project4-excelor/</guid>
+      <description>In one of my key projects, I leveraged the power of Excel to conduct operational research aimed at financial optimisation. Employing Excel&amp;rsquo;s versatile functionality, I meticulously analysed financial data, performed efficient data entry, and executed regression and hypothesis tests. The focus was on refining financial processes and developing strategic insights through comprehensive database audits. This project showcased my proficiency in Excel&amp;rsquo;s data analysis and management capabilities, emphasising its role in driving informed decision-making and enhancing financial strategies.</description>
+    </item>
+    
+    <item>
+      <title>Big Data – what classify them and why Shell needs them?</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project6-researchessay/</link>
+      <pubDate>Mon, 10 Apr 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project6-researchessay/</guid>
+      <description>Throughout my academic journey, I had the opportunity to craft one of my early scholarly essays as part of the Computing &amp;amp; Research module. This experience not only enriched my knowledge but also honed my research skills within a specific subject area.
+As a modern-day Data Scientist, I made a deliberate choice to immerse myself in the dynamic and ever-evolving realm of Big Data. This decision led me to explore the practical applications of Big Data analytics within some of the most intricate business landscapes, particularly in multibillion-dollar enterprises like Shell.</description>
+    </item>
+    
+    <item>
+      <title>A Multiple Linear Regression Analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project3-mlrreport/</link>
+      <pubDate>Wed, 20 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project3-mlrreport/</guid>
+      <description>I spearheaded an in-depth study investigating the intricate interplay between crime rates and socio-economic factors across 47 U.S. states, employing a comprehensive dataset encompassing 11 variables. The study unearthed diverse patterns in the socio-economic landscape, shedding light on unexpected correlations. Key predictors, including police expenditure, income inequality, educational levels, the number of males aged 14-24, and the unemployment rate of urban males aged 35-39, emerged as pivotal factors in the regression model.</description>
+    </item>
+    
+    <item>
+      <title>Primary Research &amp; Statistics Report</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project2-statisticsreport/</link>
+      <pubDate>Wed, 20 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project2-statisticsreport/</guid>
+      <description>“A computer scientist is a machine for converting coffee into urine.”
+— Alan Kay
+As a dedicated Data Scientist with a keen interest in the technology field, I recognise the significance of delving into one of its most vital tools - coffee.
+Outlined below are the comprehensive findings derived from the analysis amongst sample of 30 DMU students and staff. The analysis was conducted using Minitab software for data acquisition and in-depth examination.</description>
+    </item>
+    
+    <item>
+      <title>E-commerce analysis &amp; business simulation</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project1-jeraanalysisnbusinesssimulation/</link>
+      <pubDate>Fri, 11 Feb 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project1-jeraanalysisnbusinesssimulation/</guid>
+      <description>For duration of one term I was simulating the e-commerce business opening with my products of my choice and type of business. It allowed to get insights on how data bases of products and customers are conducted with regards of efficiency. The website and entire product line was also created by me. We were operating on wix.com as beginners programmers.
+The final project (an online portfolio; available at: https://syljabecomlab.blogspot.com) include various e-commerce and database related tasks.</description>
+    </item>
+    
+  </channel>
+</rss>

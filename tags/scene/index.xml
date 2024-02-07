@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Sylwia Jablonska</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/scene/</link>
+    <description>Recent content in scene on Sylwia Jablonska</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Multiple Linear Regression Analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project3-mlrreport/</link>
+      <pubDate>Wed, 20 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project3-mlrreport/</guid>
+      <description>I spearheaded an in-depth study investigating the intricate interplay between crime rates and socio-economic factors across 47 U.S. states, employing a comprehensive dataset encompassing 11 variables. The study unearthed diverse patterns in the socio-economic landscape, shedding light on unexpected correlations. Key predictors, including police expenditure, income inequality, educational levels, the number of males aged 14-24, and the unemployment rate of urban males aged 35-39, emerged as pivotal factors in the regression model.</description>
+    </item>
+    
+    <item>
+      <title>Primary Research &amp; Statistics Report</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/project2-statisticsreport/</link>
+      <pubDate>Wed, 20 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/project2-statisticsreport/</guid>
+      <description>“A computer scientist is a machine for converting coffee into urine.”
+— Alan Kay
+As a dedicated Data Scientist with a keen interest in the technology field, I recognise the significance of delving into one of its most vital tools - coffee.
+Outlined below are the comprehensive findings derived from the analysis amongst sample of 30 DMU students and staff. The analysis was conducted using Minitab software for data acquisition and in-depth examination.</description>
+    </item>
+    
+  </channel>
+</rss>
